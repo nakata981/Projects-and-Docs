@@ -1,0 +1,237 @@
+fileFormatVersion: 2
+guid: 978affe1ecf8f7a4693c8ea1f18d1c7f
+timeCreated: 1457283617
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Character_Sheet_0
+    21300002: Character_Sheet_1
+    21300004: Character_Sheet_2
+    21300006: Character_Sheet_3
+    21300008: Character_Sheet_4
+    21300010: Character_Sheet_5
+    21300012: Character_Sheet_6
+    21300014: Character_Sheet_7
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 64
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Character_Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 896
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20, y: -6.4000244}
+        - {x: 40, y: -6.4000244}
+        - {x: 40, y: 90.599976}
+        - {x: 32, y: 96.599976}
+        - {x: -12, y: 96.599976}
+        - {x: -19, y: 84.599976}
+        - {x: -21, y: 79.599976}
+        - {x: -23, y: 73.599976}
+        - {x: -23, y: 57.599976}
+        - {x: -19, y: 13.599976}
+        - {x: -11, y: -6.4000244}
+        - {x: 19, y: -6.4000244}
+        - {x: 19, y: -0.4000244}
+        - {x: 19, y: -1.4000244}
+        - {x: 20, y: -5.4000244}
+    - name: Character_Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 2.5999756}
+        - {x: -8, y: 0.5999756}
+        - {x: -11, y: -2.4000244}
+        - {x: -11, y: -6.4000244}
+        - {x: 21, y: -6.4000244}
+        - {x: 32, y: 17.599976}
+        - {x: 33, y: 50.599976}
+        - {x: 33, y: 74.599976}
+        - {x: 24, y: 93.599976}
+        - {x: 22, y: 96.599976}
+        - {x: -25, y: 96.599976}
+        - {x: -31, y: 65.599976}
+        - {x: -31, y: -6.4000244}
+        - {x: -13, y: -6.4000244}
+        - {x: -12, y: -5.4000244}
+        - {x: -10, y: 1.5999756}
+        - {x: -10, y: 6.5999756}
+    - name: Character_Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 95.599976}
+        - {x: -24, y: 90.599976}
+        - {x: -24, y: 30.599976}
+        - {x: -16, y: -6.4000244}
+        - {x: 10, y: -6.4000244}
+        - {x: 27, y: 26.599976}
+        - {x: 27, y: 77.599976}
+        - {x: 23, y: 95.599976}
+    - name: Character_Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22, y: 95.599976}
+        - {x: -11, y: 95.599976}
+        - {x: -20, y: 85.599976}
+        - {x: -20, y: 27.599976}
+        - {x: -10, y: -6.4000244}
+        - {x: 25, y: -6.4000244}
+        - {x: 31, y: 23.599976}
+        - {x: 31, y: 88.599976}
+        - {x: 27, y: 94.599976}
+    - name: Character_Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: 97.600006}
+        - {x: -9, y: 97.600006}
+        - {x: -23, y: 81.600006}
+        - {x: -23, y: 41.600006}
+        - {x: -15, y: -6.399994}
+        - {x: 16, y: -6.399994}
+        - {x: 25, y: -2.399994}
+        - {x: 28, y: 34.600006}
+        - {x: 28, y: 75.600006}
+    - name: Character_Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 97.600006}
+        - {x: -23, y: 83.600006}
+        - {x: -23, y: 50.600006}
+        - {x: -8, y: -6.399994}
+        - {x: 23, y: -6.399994}
+        - {x: 28, y: 7.600006}
+        - {x: 28, y: 84.600006}
+        - {x: 14, y: 97.600006}
+    - name: Character_Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 96.600006}
+        - {x: -23, y: 86.600006}
+        - {x: -23, y: 22.600006}
+        - {x: -17, y: 4.600006}
+        - {x: -12, y: -6.399994}
+        - {x: 14, y: -6.399994}
+        - {x: 30, y: 41.600006}
+        - {x: 30, y: 75.600006}
+        - {x: 21, y: 96.600006}
+    - name: Character_Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 96.6}
+        - {x: -25, y: 77.6}
+        - {x: -25, y: 17.599998}
+        - {x: -23, y: -5.4000015}
+        - {x: -17, y: -6.4000015}
+        - {x: 25, y: -6.4000015}
+        - {x: 28, y: 11.599998}
+        - {x: 28, y: 88.6}
+        - {x: 20, y: 96.6}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

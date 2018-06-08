@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\The Pattern\RespawnScripts\RespawnObjects.cs">
+    <Files>
+      <File FileName="Assets\The Pattern\Player\PlayerSet.cs" Line="1" Column="1" />
+      <File FileName="Assets\The Pattern\ScoreSystem\ScoreSystem.cs" Line="7" Column="34" />
+      <File FileName="Assets\The Pattern\Screen\PauseMenu.cs" Line="46" Column="27" />
+      <File FileName="Assets\The Pattern\RespawnScripts\RespawnObjects.cs" Line="15" Column="115" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
